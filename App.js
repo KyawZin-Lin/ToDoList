@@ -1,4 +1,4 @@
-import { StatusBar } from "expo-status-bar";
+// First React Native Project
 import React, { useEffect, useState,} from "react";
 import {
   StyleSheet,
